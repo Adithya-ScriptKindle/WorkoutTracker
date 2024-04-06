@@ -28,7 +28,7 @@ Project in action - [workout-tracker](https://workout-tracker.cyclic.app) 🚀
 Clone the project
 
 ```bash
-  git clone https://github.com/shaikahmadnawaz/workout-tracker
+  https://github.com/Adithya-ScriptKindle/WorkoutTracker/
 ```
 
 Go to the project directory
